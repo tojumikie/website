@@ -1,6 +1,6 @@
 # Welcome to Toju Mikie's Website!
 ## Projects
-[Java: Hello World! (11/9/2019)](https://github.com/tojumikie/website/blob/master/HelloWorld.java)
+Java: [Hello World! (11/9/2019)](https://github.com/tojumikie/website/blob/master/HelloWorld.java)
 
 Video Editing: [Warface SNIPER (11/26/2015)](https://www.youtube.com/watch?v=mRKzsD57yos)
 
