@@ -9,4 +9,6 @@ Video Editing: [Warface: We Want YOU! (3/2/2016)](https://www.youtube.com/watch?
 Product Video Review: [Samsung UE510 Monitor Review (1/1/2017)](https://www.youtube.com/watch?v=Psw4nXWnmWQ) 
 
 ### Upcoming Projects
-Java: Printing out Pascal's Triangle values in a line
+-Java: Printing out Pascal's Triangle values in a line
+-Posting an old software engineering project
+-Posting an old data mining project
