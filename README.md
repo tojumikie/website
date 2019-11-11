@@ -14,3 +14,5 @@ Product Video Review: [Samsung UE510 Monitor Review (1/1/2017)](https://www.yout
 -Posting an old software engineering project
 
 -Posting an old data mining project
+
+-Building a calculator
