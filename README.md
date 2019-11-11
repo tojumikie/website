@@ -10,5 +10,7 @@ Product Video Review: [Samsung UE510 Monitor Review (1/1/2017)](https://www.yout
 
 ### Upcoming Projects
 -Java: Printing out Pascal's Triangle values in a line
+
 -Posting an old software engineering project
+
 -Posting an old data mining project
