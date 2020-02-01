@@ -1,7 +1,7 @@
 # Welcome to Toju Mikie's Website!
 ## Projects
 
-Revature Project 1: Car Dealership (January 2020)
+Revature Project 1: [Car Dealership (January 2020)](./carDealership.md)
 
 Revature Project 2: Superhuman Registry (January 2020)
 
