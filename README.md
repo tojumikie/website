@@ -2,6 +2,7 @@
 ## Projects
 
 Revature Project 1:
+
 Revature Project 2:
 
 PHP:  [Old Software Engineering project for school (7/22/2018)](./old-software-engineering-project-from-school.md)
