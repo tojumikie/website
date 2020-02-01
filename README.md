@@ -1,5 +1,9 @@
 # Welcome to Toju Mikie's Website!
 ## Projects
+
+Revature Project 1:
+Revature Project 2:
+
 PHP:  [Old Software Engineering project for school (7/22/2018)](./old-software-engineering-project-from-school.md)
 
 Java: [Hello World! (11/9/2019)](https://github.com/tojumikie/website/blob/master/HelloWorld.java)
