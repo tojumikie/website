@@ -3,7 +3,7 @@
 
 Revature Project 1: [Car Dealership (January 2020)](./carDealership.md)
 
-Revature Project 2: Superhuman Registry (January 2020)
+Revature Project 2: [Superhuman Registry (January 2020)] (./superhuman.md)
 
 PHP:  [Old Software Engineering project for school (7/22/2018)](./old-software-engineering-project-from-school.md)
 
